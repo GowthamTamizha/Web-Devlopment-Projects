@@ -1,3 +1,10 @@
-This is a first git over multi system
-I have added the code from personal pc
-Got it in my office laptop
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+
+
+
+
+----------------------------------
+git pull origin master
