@@ -2,11 +2,6 @@ To push the code
 git add .
 git commit -m "Initial commit"
 git push origin main
-
-
-
-
-
 ----------------------------------
 To pull the code
 
